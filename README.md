@@ -194,7 +194,7 @@ g++ -o FinanceManager.exe main.cpp Account.cpp Transaction.cpp Budget.cpp Financ
 
 ## 👤 Author
 
-**Bockarie Pinto**
+**Osman Kamara**
 C++ Console Application Developer
 
 ---
