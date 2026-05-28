@@ -1,4 +1,4 @@
-# 💵 Personal Wealth & Finance Manager
+# 💵 Personal  Finance Manager
 
 A premium console-based **C++ Personal Finance Manager** built using clean Object-Oriented Programming (OOP) principles. It manages financial accounts (Checking, Savings, Credit Cards), logs transaction logs (Income, Expenses, Transfers), displays budgets with visual progress bars, and generates robust portfolio reports and analytics.
 
